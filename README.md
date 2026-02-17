@@ -12,7 +12,7 @@ High MonthlyCharges + short tenure: highest risk segment
 Estimated revenue impact: 3% churn reduction could save ₹X lakhs annually
 
 🛠️ Tech Stack
-Python: Pandas, Scikit-learn (EDA + Logistic Regression)
+Python: Pandas, Scikit-learn (EDA + Random Forest)
 
 Power BI: Interactive 3-page dashboard
 
@@ -27,7 +27,7 @@ Key findings:
 ✓ High-value customers (high charges) churn at 23% rate
 2. Predictive Modeling
 text
-Model: Logistic Regression
+Model: Random Forest
 Accuracy: 81%
 Precision (Churn): 78%
 Recall (Churn): 82%
@@ -68,7 +68,7 @@ Potential Revenue Saved	₹X lakhs/year
 🎓 Skills Demonstrated
 Data cleaning & EDA (Pandas, Matplotlib)
 
-Classification modeling (Logistic Regression)
+Classification modeling (Logistic Regressio)
 
 Interactive dashboarding (Power BI)
 
